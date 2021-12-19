@@ -1,3 +1,15 @@
-# Breath of the Wild's Stasis Tun | Mix and Jam
+Assests used by the project -
 
-This is the official respository for the tenth episode of the [Mix and Jam Youtube Channel](https://www.youtube.com/c/MixandJam)!
+https://youtu.be/J1GgvDfmIo0 (Third Person - Filmstorm)
+https://skfb.ly/6H98z (Master Sword)
+https://skfb.ly/6IDSo (Hylian Shield)
+https://youtu.be/IxYcX7YiG1w(Help with Shaders and the overall Project)
+
+This project was Done by 
+Abhyuday Chauhan 
+20BCG10090
+Vit Bhopal 
+
+
+
+
