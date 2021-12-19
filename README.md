@@ -1,8 +1,11 @@
 Assests used by the project -
 
 https://youtu.be/J1GgvDfmIo0 (Third Person - Filmstorm)
+
 https://skfb.ly/6H98z (Master Sword)
+
 https://skfb.ly/6IDSo (Hylian Shield)
+
 https://youtu.be/IxYcX7YiG1w(Help with Shaders and the overall Project)
 
 This project was Done by 
